@@ -1,7 +1,7 @@
 <%-- 
     Document   : Register
     Created on : 06-Apr-2022, 12:20:37 pm
-    Author     : ANUPRIYA
+    Author     : AAYUSH
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

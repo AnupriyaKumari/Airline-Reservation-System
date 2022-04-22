@@ -1,8 +1,4 @@
-<%-- 
-    Document   : delete
-    Created on : 06-Apr-2022, 12:29:42 pm
-    Author     : ANUPRIYA
---%>
+
 
 <%@page import="java.sql.*" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

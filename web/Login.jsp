@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Login
-    Created on : 06-Apr-2022, 12:15:35 pm
-    Author     : ANUPRIYA
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

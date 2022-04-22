@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Teams
-    Created on : 21-Apr-2022, 4:08:26 pm
-    Author     : ANUPRIYA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -1,8 +1,4 @@
-<%-- 
-    Document   : feedbackData
-    Created on : 06-Apr-2022, 12:30:35 pm
-    Author     : ANUPRIYA
---%>
+
 
 <%@page import="java.sql.*" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

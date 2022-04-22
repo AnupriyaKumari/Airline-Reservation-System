@@ -1,8 +1,4 @@
-<%-- 
-    Document   : aboutus
-    Created on : 06-Apr-2022, 12:29:26 pm
-    Author     : ANUPRIYA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
